@@ -6,6 +6,10 @@
 
 > Expand Text snippets directly from [Ulauncher](https://ulauncher.io/)  with Placeholder support.
 
+
+:warning: **I decided to stop mantaining this extension as I have found [this](https://ext.ulauncher.io/-/github-mikebarkmin-ulauncher-snippets), which is a lot better. I recommend everyone using this extension to do the same. Thank you!**
+
+
 ## Demo
 
 ![demo](demo.gif)
